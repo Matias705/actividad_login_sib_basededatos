@@ -35,7 +35,7 @@ namespace Login
 
             if (txtPassword.Text == "")
             {
-                MessageBox.Show("Se debe ingresar una constrsena.");
+                MessageBox.Show("Se debe ingresar una constrasena.");
                 return;
             }
 
